@@ -1,0 +1,15 @@
+{
+  "calculator": "Rechner",
+  "addition": "Addition",
+  "subtraction": "Subtraktion",
+  "multiplication": "Multiplikation",
+  "division": "Division",
+  "enterFirstNumber": "Geben Sie die erste Zahl ein",
+  "enterSecondNumber": "Geben Sie die zweite Zahl ein",
+  "calculate": "Berechnen",
+  "result": "Ergebnis",
+  "selectOperation": "Wählen Sie eine Operation",
+  "language": "Sprache",
+  "error": "Fehler",
+  "invalidInput": "Ungültige Eingabe"
+}

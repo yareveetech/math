@@ -1,0 +1,18 @@
+{
+  "calculator": {
+    "title": "Calculator",
+    "operation": "Select Operation",
+    "addition": "Addition",
+    "subtraction": "Subtraction",
+    "multiplication": "Multiplication",
+    "division": "Division",
+    "number1": "Enter first number",
+    "number2": "Enter second number",
+    "calculate": "Calculate",
+    "result": "Result",
+    "error": "Please enter valid numbers"
+  },
+  "language": {
+    "select": "Select Language"
+  }
+}

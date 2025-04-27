@@ -1,0 +1,18 @@
+{
+  "calculator": {
+    "title": "آلة حاسبة",
+    "selectOperation": "اختر العملية",
+    "addition": "جمع",
+    "subtraction": "طرح",
+    "multiplication": "ضرب",
+    "division": "قسمة",
+    "number1": "الرقم 1",
+    "number2": "الرقم 2",
+    "calculate": "احسب",
+    "result": "النتيجة",
+    "error": "يرجى إدخال أرقام صحيحة"
+  },
+  "language": {
+    "selectLanguage": "اختر اللغة"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "calculator": "Calculatrice",
+  "addition": "Addition",
+  "subtraction": "Soustraction",
+  "multiplication": "Multiplication",
+  "division": "Division",
+  "number1": "Numéro 1",
+  "number2": "Numéro 2",
+  "calculate": "Calculer",
+  "result": "Résultat",
+  "selectOperation": "Sélectionnez l'opération",
+  "language": "Langue",
+  "error": {
+    "invalidInput": "Veuillez entrer des nombres valides."
+  }
+}
